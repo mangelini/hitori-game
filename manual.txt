@@ -1,0 +1,19 @@
+**********************************************************************
+RULES:
+
+- Color cells so numbers appear no more than once in a row or column
+- The sides of black cells never touch
+- White cells form a continuous network
+
+**********************************************************************
+COMMANDS:
+
+- "a" for:
+    1. automatically circle cells around black cells
+    2. automatically blacken white cells with the same number of 
+        another circled cell in the same row or column
+
+- "r" to see the resolved board (double press to reset)
+
+- "h" gives you the next move automatically
+
